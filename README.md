@@ -4,5 +4,5 @@ Este simples projeto, sem qualquer estilização, foi o primeiro contato com div
 ##
 
 
-![demo](https://github.com/devmeinerz/formulario_vue/blob/main/src/assets/images/cover.png?raw=true)<br/>
+![demo](https://github.com/devmeinerz/formulario_vue/blob/main/src/assets/images/cover_app.png?raw=true)<br/>
 
