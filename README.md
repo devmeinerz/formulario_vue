@@ -1,6 +1,6 @@
 # Formulário
 Projeto desenvolvido segundo o curso Vue JS do zero ao avançado na pratica - <a href="https://www.udemy.com/course/curso-vuejs-completo">Matheus Fraga.<a/><br/><br/>
-Este simples probjeto, sem qualquer estilização, foi o primeiro contato com diversos conceitos de manipulação de DOM através do Vue.Js.
+Este simples projeto, sem qualquer estilização, foi o primeiro contato com diversos conceitos de manipulação de DOM através do Vue.Js.
 ##
 
 
